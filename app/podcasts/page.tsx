@@ -4,7 +4,7 @@ import PodcastsList from "@/components/PodcastsList/PodcastsList";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "Podcasts  | Fyrre Magazine",
+  title: "Podcasts  | Türksözü Magazine",
   description: "The latest podcasts list",
 };
 

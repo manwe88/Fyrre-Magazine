@@ -4,7 +4,7 @@ import PageTitle from "@/components/PageTitle";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "Articles  | Fyrre Magazine",
+  title: "Articles  | Türksözü Magazine",
   description: "Articles from our team of writers, editors and artists",
 };
 
