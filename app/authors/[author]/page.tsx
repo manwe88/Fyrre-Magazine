@@ -47,7 +47,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${authorData.author} | Fyrre Magazine`,
+    title: `${authorData.author} | Türksözü Magazine`,
   };
 }
 

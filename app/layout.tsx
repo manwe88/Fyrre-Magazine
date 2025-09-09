@@ -7,7 +7,7 @@ import PodcastContextProvider from "@/context/PodcastContext";
 import ArticleContextProvider from "@/context/ArticleContext";
 
 export const metadata: Metadata = {
-  title: "Fyrre Magazine",
+  title: "Türksözü Magazine",
   description: "Art & Life",
 };
 
@@ -21,7 +21,7 @@ export default function RootLayout({
       <head>
         <link
           rel="icon"
-          href="/logos/FyrreMagazineFavicon.svg"
+          href="/logos/TurksozuMagazineFavicon.svg"
           type="image/x-icon"
         />
       </head>

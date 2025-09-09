@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import Loading from "./loading";
 
 export const metadata = {
-  title: "Authors  | Fyrre Magazine",
+  title: "Authors  | Türksözü Magazine",
   description: "Our authors",
 };
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Fyrre - Art & Life Magazine Website</h1>
+<h1>Türksözü - Art & Life Magazine Website</h1>
 
 </div>
 
@@ -40,8 +40,8 @@ A bold, striking arts and life magazine website build as an SPA from Figma templ
 <a target="_blank" rel="noopener noreferrer" href="https://zod.dev/logo.svg"><img src="https://zod.dev/logo.svg" alt="Zod logo" width="50" height="50" style="max-width:100%;"></a>
 
 <strong>Links</strong>
-- <a target="_blank" rel="noopener noreferrer" href="https://fyrre-magazine.vercel.app/">Fyrre Magazine Site</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/community/file/1136023191939170511/fyrre-magazine-website-webflow-template">Fyrre Magazine Templates</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://fyrre-magazine.vercel.app/">Türksözü Magazine Site</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/community/file/1136023191939170511/fyrre-magazine-website-webflow-template">Türksözü Magazine Templates</a>
 
 <strong>Disclaimer</strong>
 
